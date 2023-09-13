@@ -1,7 +1,6 @@
-### Welcome My Github 👋
+# Welcome My Github 👋
 
 ## <strong>Repository Categories</strong> <span style="font-weight:normal">for searching 🔍</span>
-
 #### **"AWS"**  : AWS(클라우드) 기반 공공ㆍ빅데이터 활용 웹서비스 개발자 양성과정(백엔드 부트캠프)
   - **"수업"**  : 수업을 들으며 학습한 내용
   - **"프로젝트"**  : 학습한 내용을 바탕으로 직접 만든 프로젝트
